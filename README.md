@@ -7,9 +7,9 @@ Farah Yassin 4801788
 
 Using the robot simulator provided by the professor, it is asked to write a python code to make the robot arrange the silver boxes, initially positioned at the center of the map, next to the golden boxes, as shown in the figures.
 
-![Initial arrangement](begin.png)
+![Initial arrangement](begin.jpg)
 
-![Final arrangement](end.png)
+![Final arrangement](end.jpg)
 
 ## Pseudocode
 
